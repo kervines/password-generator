@@ -9,7 +9,7 @@ Web version 💻
 
 Mobile version 📱
 
-<img src='https://github.com/kervines/password-generator/assets/57775586/ed21dcc2-7d16-4c0e-a813-4e0bef71cf6a' width=30% alt='Screen Mobile Version'>
+<img src='https://github.com/kervines/password-generator/assets/57775586/ed21dcc2-7d16-4c0e-a813-4e0bef71cf6a' height=40% alt='Screen Mobile Version'>
 
 ##
 
