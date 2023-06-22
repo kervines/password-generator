@@ -14,7 +14,7 @@
   --shadow-color: #000000;
 }
 
-.dark-mode:root {
+:root.dark-mode {
   --primary-color: #f5f5f5;
   --primary-color-button: #dadee7;
 
